@@ -6,3 +6,8 @@ this is my 1st git repo
 
 adding new line 
 my name is joyboy
+
+
+
+this is new updates
+hii
